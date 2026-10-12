@@ -1,0 +1,26 @@
+body {
+    background-color: darkslateblue;
+    font-size: 20px;
+}
+
+#calculator {
+    background: black;
+    width: 25vw;
+    height: 75vh;
+    padding: 35px;
+    margin-top: 3vh;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#calculator #result {
+    width: 74%
+}
+
+#calculator td input {
+    font-size: 3vw;
+    padding: 3vw;
+    width: 100%;
+    border-radius: 20px;
+}
